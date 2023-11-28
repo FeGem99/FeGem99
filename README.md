@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FeGem99
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning java language 
+- 🌱 I’m currently learning java and Python language 
 - 📫 How to reach me fege99@gmail.com
 
 <!---
